@@ -70,7 +70,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm sameer
-secondTitle: YOUR_NAME,
+secondTitle:sameer,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
